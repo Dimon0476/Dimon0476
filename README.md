@@ -1,11 +1,6 @@
 ### Hi there 
-<h1 align="center">Hi there 👋, I'm <a href="#" target="_blank">Dmitry</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there 👋, I'm <a href="#" target="_blank">Dmitry</a>
 <h3 align="center">Backend Python Developing.</h3>
-
-Skills
-
-Python Git HTML5 CSS3 Bootstrap Flask PostgreSQL Django
 <!--
 **Dimon0476/Dimon0476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
