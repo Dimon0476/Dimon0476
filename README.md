@@ -1,9 +1,6 @@
 <h1 align="center">Hi there 👋, I'm <a href="#" target="_blank">Dmitry Fyodorov</a>
 <h3 align="center">Backend Python Developing.</h3>
-=============================================================================================================================================
-
-Backend Python Developing.
-----------------------------------
+=================================================================================
 
 * ✉️  You can contact me at [dmitry.fodorov@gmail.com](mailto:dmitry.fodorov@gmail.com)
 * 🧠  I'm a Python programmer (core python, flask, django framework)
