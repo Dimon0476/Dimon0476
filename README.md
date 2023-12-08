@@ -1,4 +1,3 @@
-### Hi there 
 <h1 align="center">Hi there 👋, I'm <a href="#" target="_blank">Dmitry</a>
 <h3 align="center">Backend Python Developing.</h3>
 <!--
