@@ -4,6 +4,7 @@
 
 * ✉️  You can contact me at [dmitry.fodorov@gmail.com](mailto:dmitry.fodorov@gmail.com)
 * 🧠  I'm a Python programmer (core python, flask, django framework)
+* <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ### Skills
 
