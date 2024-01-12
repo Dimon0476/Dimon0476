@@ -7,11 +7,9 @@
 
 Thank you for visiting my repository! I hope you find something interesting and useful here. 🌟
 
-🌍 **Location:** Netanya, Israel
-
+🌍 **Location:** Netanya, Israel  
 🔧 **Key Skills:** Python, Django, Flask, Git, Docker, Bootstrap  
-📚 **Learning and Development:** Active participant in open-source projects
-
+📚 **Learning and Development:** Active participant in open-source projects  
 🗣 **Languages:** Hebrew, Russian, Ukrainian, English  
 
 
