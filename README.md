@@ -13,7 +13,7 @@
 💬 If you have any questions or would like to discuss collaboration, feel free to contact me:
 
 * ✉️  You can contact me at [dmitry.fodorov@gmail.com](mailto:dmitry.fodorov@gmail.com)
-* 🔗 LinkedIn: <div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="dmitry-fyodorov-ab44242a7" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://il.linkedin.com/in/dmitry-fyodorov-ab44242a7?trk=profile-badge">Dmitry Fyodorov</a></div>
+* 🔗 LinkedIn: <div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="dmitry-fyodorov-ab44242a7" data-version="v1"><a class="badge-base__link LI-simple-link" href="[https://il.linkedin.com/in/dmitry-fyodorov-ab44242a7](https://www.linkedin.com/in/dmitry-fyodorov-2472682b3)?trk=profile-badge">Dmitry Fyodorov</a></div>
 
 Thank you for visiting my repository! I hope you find something interesting and useful here. 🌟
                 
